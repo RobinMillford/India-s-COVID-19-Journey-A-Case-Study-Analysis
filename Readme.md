@@ -26,6 +26,17 @@ The 'icmrtestingdata' table provided valuable insights into India's testing effo
 
 To enhance the project's impact and accessibility, data visualization was conducted using Power BI. The visualizations served as a dynamic means to communicate insights effectively. These interactive visual representations allowed stakeholders and decision-makers to explore the data intuitively, gaining a deeper understanding of India's COVID-19 journey.
 
+Dashboard 1 - ![Alt Text](https://github.com/RobinMillford/India-s-COVID-19-Journey-A-Case-Study-Analysis/blob/main/Page%201.png)
+
+
+Dashboard 2 - ![Alt Text](https://github.com/RobinMillford/India-s-COVID-19-Journey-A-Case-Study-Analysis/blob/main/Page%202.png)
+
+
+Dashboard 3 - ![Alt Text](https://github.com/RobinMillford/India-s-COVID-19-Journey-A-Case-Study-Analysis/blob/main/Page%203.png)
+
+
+Dashboard 4 - ![Alt Text](https://github.com/RobinMillford/India-s-COVID-19-Journey-A-Case-Study-Analysis/blob/main/Page%204.png)
+
 ### Conclusion
 
 This project signifies a comprehensive analysis of India's response to the COVID-19 pandemic. The combined use of Python, SQL, and Power BI empowered the extraction of valuable insights from the datasets. These insights can be instrumental in policy-making, healthcare resource allocation, and pandemic management.
